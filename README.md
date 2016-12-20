@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Steevous/Vezba1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+##Vezba1
+ By: nikola
+ ova vezba je radi uvezbavanja programa: github,nodejs,sublime text 3, git gui
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -12,8 +10,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Coursera-test
 ## Header 2
+by: nikola
 ### Header 3
+
 
 - Bulleted
 - List
